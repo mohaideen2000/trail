@@ -4,6 +4,6 @@ sap.ui.define([
 	"use strict";
 
 	new Text({
-		text: "Hello World"
+		text: "Hello World mohaideen"
 	}).placeAt("content");
 });
